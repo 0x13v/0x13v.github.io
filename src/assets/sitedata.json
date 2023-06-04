@@ -1,0 +1,59 @@
+ {
+    "blogs":[
+      {
+        "id": 1,
+        "title": "Blog Post 1",
+        "tags":["info","whoami"],
+        "description":"info about me",
+        "linkofrowdata": "https://raw.githubusercontent.com/0x13v/Cyber101/main/readme.md"
+      }
+    ] ,
+    "projects":[
+      {
+        "id": 1,
+        "title": "projects1",
+        "tags":["info","whoami"],
+        "description":"info about me",
+        "linkofrowdata": "https://raw.githubusercontent.com/0x13v/Cyber101/main/readme.md"
+      }
+    ] ,
+    "notes":[
+      {
+        "id": 1,
+        "title": "notes1",
+        "tags":["info","whoami"],
+        "description":"info about me",
+        "linkofrowdata": "https://raw.githubusercontent.com/0x13v/Cyber101/main/readme.md"
+      }
+    ],
+    "writeups":[
+      {
+        "id": 1,
+        "title": "writeups1",
+        "tags":["info","whoami"],
+        "description":"info about me",
+        "linkofrowdata": "https://raw.githubusercontent.com/0x13v/Cyber101/main/readme.md"
+      }
+    ],
+    "awards":[
+      {
+        "id": 1,
+        "title": "awards1",
+        "tags":["info","whoami"],
+        "description":"info about me",
+        "linkofrowdata": "https://raw.githubusercontent.com/0x13v/Cyber101/main/readme.md"
+      }
+    ],
+    "profile":[
+      {
+        "id": 1,
+        "title": "profiledata",
+        "tags":["info","whoami"],
+        "description":"info about me",
+        "linkofrowdata": "https://raw.githubusercontent.com/0x13v/Cyber101/main/readme.md"
+      }
+    ]
+
+  }
+  
+  

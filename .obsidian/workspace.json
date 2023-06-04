@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "0bbac153853c8753",
+    "type": "split",
+    "children": [
+      {
+        "id": "31886f7d9bf80784",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53c6f45d8c839906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4c0d557b0bf6b7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8700fa49480f129f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d4ccba577c049ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c285321bb5252f22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc82702c3b9b2be2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0594de73cc721c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e355c46a0223c236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "997daedae8d893c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8947e76408aaaeb6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e36df4bd01d1861f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f93292a63fbe224",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "53c6f45d8c839906",
+  "lastOpenFiles": [
+    "node_modules/fsevents",
+    "public/file.md",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/types/index.d.ts",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/types",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/scss/base16/twilight.scss",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/scss/base16/zenburn.scss",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/scss/base16/xcode-dusk.scss",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/scss/base16/woodland.scss",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/scss/base16/windows-nt.scss",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/scss/base16/windows-nt-light.scss",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/scss/base16/windows-high-contrast.scss",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/scss/base16/windows-high-contrast-light.scss",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/styles/brown-papersq.png",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/VERSION_11_UPGRADE.md",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/VERSION_10_UPGRADE.md",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/SUPPORTED_LANGUAGES.md",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/SECURITY.md",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/README.md",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/CHANGES.md",
+    "node_modules/vue3-markdown-it/README.md",
+    "node_modules/markdown-it-highlightjs/node_modules/highlight.js/styles/pojoaque.jpg",
+    "node_modules/@types/markdown-it/README.md",
+    "node_modules/markdown-it-toc-done-right/README.md",
+    "node_modules/markdown-it-toc-done-right/CHANGELOG.md",
+    "node_modules/@types/linkify-it/README.md",
+    "node_modules/@types/mdurl/README.md",
+    "node_modules/markdown-it-emoji/README.md",
+    "node_modules/markdown-it-anchor/README.md",
+    "node_modules/markdown-it-deflist/README.md",
+    "node_modules/markdown-it-deflist/CHANGELOG.md",
+    "node_modules/markdown-it-abbr/CHANGELOG.md",
+    "node_modules/markdown-it-footnote/README.md",
+    "node_modules/markdown-it-footnote/CHANGELOG.md",
+    "node_modules/markdown-it-task-lists/test/fixtures/dirty.md",
+    "node_modules/markdown-it-task-lists/test/fixtures/ordered.md",
+    "node_modules/markdown-it-task-lists/test/fixtures/mixed-nested.md",
+    "node_modules/markdown-it-task-lists/test/fixtures/bullet.md",
+    "node_modules/markdown-it-sub/CHANGELOG.md",
+    "node_modules/vue-md-loader/node_modules/highlight.js/styles/brown-papersq.png",
+    "node_modules/vue-md-loader/node_modules/highlight.js/styles/pojoaque.jpg",
+    "public/assets/img/dogs/image2.jpeg",
+    "public/assets/img/avatars/avatar5.jpeg",
+    "public/assets/img/avatars/avatar4.jpeg",
+    "public/assets/img/avatars/avatar2.jpeg",
+    "public/assets/img/avatars/avatar3.jpeg",
+    "public/assets/img/avatars/avatar1.jpeg"
+  ]
+}
