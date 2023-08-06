@@ -52,7 +52,17 @@
         "description":"info about me",
         "linkofrowdata": "https://raw.githubusercontent.com/0x13v/Cyber101/main/readme.md"
       }
+    ],
+      "profisle":[
+      {
+        "id": 1,
+        "title": "profiledata",
+        "tags":["info","whoami"],
+        "description":"info about me",
+        "linkofrowdata": "https://raw.githubusercontent.com/0x13v/Cyber101/main/readme.md"
+      }
     ]
+  
 
   }
   
